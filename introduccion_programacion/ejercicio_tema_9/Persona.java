@@ -1,3 +1,5 @@
+package introduccion_programacion.ejercicio_tema_9;
+
 public class Persona {
   private Integer edad;
   private String nombre;

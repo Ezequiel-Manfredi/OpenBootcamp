@@ -1,3 +1,5 @@
+package introduccion_programacion.ejercicio_tema_9;
+
 public class Trabajador extends Persona {
   private Integer salario;
 

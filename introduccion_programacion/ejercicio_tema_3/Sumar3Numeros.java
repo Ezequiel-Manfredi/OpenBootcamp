@@ -1,3 +1,5 @@
+package introduccion_programacion.ejercicio_tema_3;
+
 public class Sumar3Numeros {
   public static Integer suma(Integer numero1, Integer numero2, Integer numero3) {
     return numero1 + numero2 + numero3;

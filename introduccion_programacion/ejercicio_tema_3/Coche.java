@@ -1,3 +1,5 @@
+package introduccion_programacion.ejercicio_tema_3;
+
 public class Coche {
   public Integer puertas = 0;
 
